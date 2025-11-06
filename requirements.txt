@@ -1,0 +1,10 @@
+litestar[all]==2.18.0
+sqlalchemy[asyncio]==2.0.44
+asyncpg==0.30.0
+pydantic==2.7.0
+pydantic-settings==2.7.0
+granian==2.5.7
+alembic==1.17.1
+python-dotenv==1.0.0
+psycopg2-binary==2.9.11
+black==25.9.0
